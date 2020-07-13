@@ -1,0 +1,7 @@
+{
+  "name": "uid-tester",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
